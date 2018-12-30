@@ -19,8 +19,9 @@ Download the software setups and follow the on screen instructions
 step 1
 
 ```
-installing java can be downloaded from here [Java](https://www.java.com/en/download/)
+installing java can be downloaded from below link 
 ```
+[Click here to visit download page](https://www.java.com/en/download/)
 
 step 2
 
